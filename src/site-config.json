@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Stark Fence Co",
+    "phone": "+15206233471",
+    "category": "fence contractor",
+    "city": "Tucson",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tucson's Trusted Fence Experts",
+      "heroSubline": "Stark Fence Co. delivers durable, beautiful fences built to withstand the Arizona climate. Protect your property with our expert craftsmanship and reliable service.",
+      "aboutTitle": "Built on Integrity, Rooted in Tucson",
+      "aboutText": [
+        "Stark Fence Co. started with a simple mission: to provide Tucson homeowners and businesses with fences built to last. Founded by lifelong Tucson resident, Mark Stark, our company has grown from a small operation to a team of dedicated professionals, all committed to quality workmanship and customer satisfaction.",
+        "We believe in doing things right the first time. From the initial consultation to the final inspection, we prioritize clear communication, meticulous attention to detail, and the use of premium materials. Our goal is to exceed your expectations and deliver a fence that not only enhances your property but also provides lasting security and peace of mind.",
+        "Stark Fence Co. is proud to be a part of the Tucson community. We actively support local organizations and strive to contribute to the growth and prosperity of our city. When you choose Stark Fence Co., you're not just getting a fence; you're investing in a local business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials designed to withstand the harsh Tucson climate, ensuring your fence lasts for years to come."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team provides professional installation services, ensuring your fence is properly installed and functions flawlessly."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We offer a wide range of fence styles and materials to meet your specific needs and complement your property's aesthetic."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "As a Tucson-based company, we understand the unique challenges of fencing in the desert environment and provide tailored solutions."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Fence Estimate Today!",
+      "ctaSubline": "Contact Stark Fence Co. for a no-obligation consultation and discover the perfect fencing solution for your property."
+    },
+    "services": [
+      {
+        "slug": "wood-fencing",
+        "name": "Wood Fencing",
+        "shortDescription": "Classic wood fences for timeless beauty and privacy.",
+        "description": "Wood fencing is a popular choice for Tucson homeowners seeking a balance of aesthetics, privacy, and affordability. At Stark Fence Co., we offer a variety of wood fence styles, from traditional picket fences to solid privacy fences. We use pressure-treated lumber to resist rot and insect damage, ensuring your wood fence will stand up to the Arizona elements. \n\nOur wood fence installation process begins with a thorough site evaluation to determine the best placement and design for your needs. We carefully set posts in concrete for maximum stability and use high-quality fasteners for long-lasting durability. We can also customize your wood fence with decorative accents, such as post caps and lattice panels, to create a unique look that enhances your property's curb appeal.\n\nProper maintenance is key to extending the life of your wood fence. We recommend applying a sealant or stain every 2-3 years to protect the wood from moisture and UV damage. Regular cleaning can also help prevent mold and mildew growth, especially during Tucson's monsoon season. With proper care, your wood fence can provide years of beauty and security for your home.",
+        "process": [
+          "Consultation & Design",
+          "Material Selection",
+          "Precise Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Classic Aesthetics",
+          "Affordable Option",
+          "Customizable Design"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in Tucson's climate?",
+            "answer": "With proper treatment and maintenance, a wood fence from Stark Fence Co. can last 10-15 years in Tucson."
+          },
+          {
+            "question": "What type of wood is best for fencing in Tucson?",
+            "answer": "Pressure-treated pine is a durable and cost-effective option for wood fencing in our climate. It resists rot and insect damage."
+          },
+          {
+            "question": "How often should I stain or seal my wood fence?",
+            "answer": "We recommend staining or sealing your wood fence every 2-3 years to protect it from the sun and moisture."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fencing",
+        "name": "Chain Link Fencing",
+        "shortDescription": "Durable and economical chain link fences for security and containment.",
+        "description": "Chain link fencing is a practical and cost-effective solution for securing your property in Tucson. Known for its durability and low maintenance, chain link is ideal for residential, commercial, and industrial applications. At Stark Fence Co., we offer a variety of chain link fence options, including different gauges, heights, and coatings to meet your specific needs.\n\nOur chain link fence installation process is efficient and reliable. We use heavy-duty posts and hardware to ensure a strong and secure fence. We can also add features such as privacy slats, gates, and barbed wire to enhance security and privacy. Chain link fences are particularly useful around the perimeter of commercial properties, or in areas where visibility is important.\n\nWhile chain link is inherently low-maintenance, occasional cleaning can help keep it looking its best. We recommend rinsing your chain link fence with water to remove dust and debris. For stubborn stains, you can use a mild detergent and a scrub brush. With minimal care, your chain link fence will provide years of reliable security and containment.",
+        "process": [
+          "Site Assessment",
+          "Precise Measurements",
+          "Secure Installation",
+          "Quality Check"
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Low Maintenance",
+          "Durable Construction",
+          "Versatile Applications"
+        ],
+        "faq": [
+          {
+            "question": "How long does chain link fencing last?",
+            "answer": "A properly installed chain link fence can last for 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer privacy slats in various colors and materials to add privacy to your chain link fence."
+          },
+          {
+            "question": "Is chain link fencing suitable for pet containment?",
+            "answer": "Yes, chain link fencing is an excellent choice for containing pets, providing a secure and visible barrier."
+          }
+        ]
+      },
+      {
+        "slug": "wrought-iron-fencing",
+        "name": "Wrought Iron Fencing",
+        "shortDescription": "Elegant wrought iron fences for security and curb appeal.",
+        "description": "Wrought iron fencing adds a touch of elegance and sophistication to any property in Tucson. Known for its strength and durability, wrought iron provides a secure and visually appealing perimeter. At Stark Fence Co., we offer custom-designed wrought iron fences to complement your home's architectural style.\n\nOur wrought iron fence installation process involves skilled craftsmanship and attention to detail. We use high-quality materials and welding techniques to ensure a strong and long-lasting fence. We can also customize your wrought iron fence with decorative elements, such as scrolls, finials, and gates, to create a unique and personalized look. In Tucson's climate, it is important to have wrought iron properly coated to prevent rust.\n\nTo maintain the beauty of your wrought iron fence, we recommend regular cleaning and painting. Remove any rust with a wire brush and apply a rust-inhibiting primer before painting. With proper care, your wrought iron fence will provide years of security and curb appeal.",
+        "process": [
+          "Custom Design",
+          "Precise Fabrication",
+          "Expert Welding",
+          "Protective Coating"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Elegant Aesthetics",
+          "Increased Property Value",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How much does wrought iron fencing cost?",
+            "answer": "The cost of wrought iron fencing depends on the design complexity and the amount of material used. Contact us for a free estimate."
+          },
+          {
+            "question": "Does wrought iron fencing rust?",
+            "answer": "Yes, wrought iron can rust if not properly coated and maintained. We use rust-resistant coatings to protect your fence."
+          },
+          {
+            "question": "Can I customize my wrought iron fence?",
+            "answer": "Absolutely! We offer a wide range of customization options, including decorative elements and gate designs."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fencing",
+        "name": "Vinyl Fencing",
+        "shortDescription": "Low-maintenance vinyl fences for lasting beauty and privacy.",
+        "description": "Vinyl fencing is a popular choice for Tucson homeowners seeking a low-maintenance and durable fencing solution. Vinyl fences are resistant to rot, insects, and weathering, making them ideal for our desert climate. At Stark Fence Co., we offer a variety of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences.\n\nOur vinyl fence installation process is quick and efficient. We use high-quality vinyl materials and secure installation techniques to ensure a strong and long-lasting fence. Vinyl fences are particularly resistant to the extreme heat and occasional moisture that Tucson experiences.\n\nMaintaining your vinyl fence is easy. Simply rinse it with water to remove dirt and debris. For stubborn stains, you can use a mild detergent and a soft cloth. With minimal care, your vinyl fence will provide years of beauty and privacy for your home.",
+        "process": [
+          "Site Preparation",
+          "Precise Installation",
+          "Secure Fastening",
+          "Final Cleanup"
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Durable Construction",
+          "Weather Resistance",
+          "Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl fencing last?",
+            "answer": "Vinyl fencing can last for 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Will vinyl fencing fade in the sun?",
+            "answer": "Our vinyl fencing is UV-resistant to prevent fading and discoloration."
+          },
+          {
+            "question": "Is vinyl fencing environmentally friendly?",
+            "answer": "Vinyl fencing is recyclable and can be made from recycled materials, making it an environmentally friendly choice."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and stylish gates for any fence type.",
+        "description": "A properly installed and well-maintained gate is essential for both security and convenience. Stark Fence Co. specializes in gate installation and repair for all types of fences in Tucson. We handle everything from simple garden gates to heavy-duty security gates, ensuring smooth operation and reliable performance.\n\nOur gate installation process begins with a careful assessment of your needs and the existing fence structure. We use high-quality hardware and secure installation techniques to ensure a strong and durable gate. We offer a variety of gate styles, including swing gates, slide gates, and automatic gates, as well as custom designs to match your fence and property.\n\nWhether you need a new gate installed or an existing gate repaired, Stark Fence Co. is here to help. We can fix sagging gates, replace damaged hardware, and adjust gate alignment. We understand the importance of a functional and secure gate, and we're committed to providing prompt and reliable service.",
+        "process": [
+          "Consultation & Design",
+          "Precise Measurement",
+          "Professional Installation",
+          "Quality Assurance"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Convenient Access",
+          "Improved Aesthetics",
+          "Reliable Operation"
+        ],
+        "faq": [
+          {
+            "question": "How much does gate installation cost?",
+            "answer": "The cost of gate installation depends on the type of gate, the size, and the complexity of the installation. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you automate my existing gate?",
+            "answer": "Yes, we can automate most existing gates with a gate opener and access control system."
+          },
+          {
+            "question": "What types of gate hardware do you use?",
+            "answer": "We use high-quality gate hardware designed for durability and security, including hinges, latches, and locks."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Reliable fence repair services to keep your fence strong and secure.",
+        "description": "Even the best fences can suffer damage from weather, accidents, or wear and tear. Stark Fence Co. offers comprehensive fence repair and maintenance services in Tucson to keep your fence strong, secure, and looking its best. We handle all types of fence repairs, from minor fixes to major overhauls.\n\nOur fence repair process begins with a thorough inspection to assess the damage and determine the best course of action. We use high-quality materials and proven repair techniques to ensure a lasting repair. We can replace damaged posts, repair broken rails, and fix sagging gates. We also offer fence staining and sealing services to protect your fence from the elements.\n\nRegular maintenance is key to extending the life of your fence. We recommend inspecting your fence regularly for signs of damage and addressing any issues promptly. Stark Fence Co. can provide routine maintenance services, such as cleaning, staining, and hardware adjustments, to keep your fence in top condition.",
+        "process": [
+          "Inspection & Assessment",
+          "Material Selection",
+          "Expert Repair",
+          "Protective Treatment"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Extended Fence Life",
+          "Improved Aesthetics",
+          "Cost-Effective Solutions"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you repair my fence even if you didn't install it?",
+            "answer": "Yes, we can repair most types of fences, regardless of who installed them."
+          },
+          {
+            "question": "How often should I have my fence inspected?",
+            "answer": "We recommend inspecting your fence at least once a year for signs of damage or wear."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tucson",
+        "slug": "tucson-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. is proud to provide top-quality fencing solutions to the residents and businesses of Tucson, Arizona. From enhancing your home's curb appeal with a beautiful wrought iron fence to securing your commercial property with a durable chain-link fence, we offer a wide range of fencing options to meet your specific needs and budget. Our experienced team is committed to providing exceptional craftsmanship and customer service, ensuring your complete satisfaction.\n\nWe understand the unique challenges of the Tucson climate and soil conditions, and we use only the highest-quality materials and construction techniques to ensure that your fence will withstand the test of time. Whether you're looking for privacy, security, or aesthetic appeal, Stark Fence Co. is your trusted partner for all your fencing needs in Tucson.",
+        "localContext": "Tucson, nestled in the Sonoran Desert, is known for its vibrant culture, stunning mountain views, and historic adobe architecture. Stark Fence Co. understands the importance of blending seamlessly with the local aesthetic while providing reliable fencing solutions.",
+        "nearbyAreas": [
+          "Oro Valley",
+          "Marana",
+          "Sahuarita"
+        ]
+      },
+      {
+        "city": "Oro Valley",
+        "slug": "oro-valley-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. extends its expert fencing services to the beautiful town of Oro Valley, Arizona. We offer a comprehensive range of fencing solutions tailored to the specific needs of Oro Valley homeowners and businesses. Whether you're looking to enhance the privacy of your backyard, secure your property, or add a touch of elegance to your landscape, we have the perfect fencing option for you.\n\nOur team is dedicated to providing exceptional craftsmanship and unparalleled customer service. We use only the highest-quality materials and employ proven construction techniques to ensure that your fence is not only aesthetically pleasing but also durable and long-lasting. Stark Fence Co. is committed to exceeding your expectations and providing you with a fence that you'll be proud of for years to come.",
+        "localContext": "Oro Valley, known for its upscale residential areas and scenic golf courses, demands high-quality fencing that complements its refined aesthetic. Stark Fence Co. delivers stylish and durable fencing solutions perfect for Oro Valley properties.",
+        "nearbyAreas": [
+          "Tucson",
+          "Marana",
+          "Catalina Foothills"
+        ]
+      },
+      {
+        "city": "Marana",
+        "slug": "marana-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. is a leading provider of fencing services in Marana, Arizona. We offer a wide selection of fencing styles and materials to meet the diverse needs of Marana residents and businesses. From classic wood fences to modern vinyl fences, we have the perfect solution to enhance the beauty and security of your property.\n\nWe pride ourselves on our commitment to quality and customer satisfaction. Our experienced team will work closely with you to understand your specific requirements and provide you with a fence that meets your needs and exceeds your expectations. Stark Fence Co. is your trusted partner for all your fencing needs in Marana.",
+        "localContext": "Marana, a rapidly growing town northwest of Tucson, requires fencing solutions that balance functionality with visual appeal. Stark Fence Co. provides customizable fencing options to suit the unique character of Marana's neighborhoods.",
+        "nearbyAreas": [
+          "Tucson",
+          "Oro Valley",
+          "Avra Valley"
+        ]
+      },
+      {
+        "city": "Sahuarita",
+        "slug": "sahuarita-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. is dedicated to serving the community of Sahuarita, Arizona, with exceptional fencing solutions. We understand the importance of providing reliable and affordable fencing options to homeowners and businesses in Sahuarita. Whether you're looking to protect your family, secure your pets, or enhance the value of your property, we have the perfect fence for you.\n\nOur team is committed to providing professional and courteous service from start to finish. We will work with you every step of the way to ensure that your fencing project is completed to your satisfaction. Stark Fence Co. is your trusted source for quality fencing in Sahuarita.",
+        "localContext": "Sahuarita, a family-friendly community south of Tucson, benefits from durable and secure fencing to protect homes and families. Stark Fence Co. offers practical and attractive fencing solutions tailored to Sahuarita's residential needs.",
+        "nearbyAreas": [
+          "Tucson",
+          "Green Valley",
+          "Vail"
+        ]
+      },
+      {
+        "city": "Green Valley",
+        "slug": "green-valley-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. is pleased to offer its professional fencing services to the residents of Green Valley, Arizona. We understand the unique needs of this active adult community and provide fencing solutions that enhance security, privacy, and aesthetic appeal. Whether you're looking for a decorative wrought iron fence or a low-maintenance vinyl fence, we have the perfect option to complement your home.\n\nOur team is committed to providing exceptional customer service and quality workmanship. We use only the finest materials and employ proven construction techniques to ensure that your fence is both beautiful and durable. Stark Fence Co. is your trusted partner for all your fencing needs in Green Valley.",
+        "localContext": "Green Valley, a popular retirement community, values secure and aesthetically pleasing fencing to maintain its peaceful atmosphere. Stark Fence Co. provides elegant and low-maintenance fencing options ideal for Green Valley homes.",
+        "nearbyAreas": [
+          "Sahuarita",
+          "Tucson",
+          "Rio Rico"
+        ]
+      },
+      {
+        "city": "Vail",
+        "slug": "vail-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. proudly serves the growing community of Vail, Arizona, with top-quality fencing solutions. We offer a wide range of fencing options to meet the diverse needs of Vail homeowners and businesses. From providing privacy for your backyard to securing your commercial property, we have the perfect fence for you.\n\nOur team is dedicated to providing exceptional customer service and professional installation. We use only the highest-quality materials and employ proven construction techniques to ensure that your fence is built to last. Stark Fence Co. is committed to exceeding your expectations and providing you with a fence that you'll be proud of for years to come.",
+        "localContext": "Vail, a rapidly developing area east of Tucson, requires durable and reliable fencing to protect its expanding residential and commercial properties. Stark Fence Co. provides robust fencing solutions designed for Vail's growth.",
+        "nearbyAreas": [
+          "Tucson",
+          "Sahuarita",
+          "Rita Ranch"
+        ]
+      },
+      {
+        "city": "Catalina Foothills",
+        "slug": "catalina-foothills-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. is delighted to provide premium fencing services to the residents of Catalina Foothills, Arizona. We understand the importance of maintaining the upscale aesthetic of this community and offer fencing solutions that enhance the beauty and value of your property. Whether you're looking for a custom-designed wrought iron fence or a sophisticated wood fence, we have the perfect option to complement your home.\n\nOur team is committed to providing meticulous craftsmanship and unparalleled customer service. We use only the finest materials and employ experienced installers to ensure that your fence is both beautiful and durable. Stark Fence Co. is your trusted partner for all your fencing needs in Catalina Foothills.",
+        "localContext": "Catalina Foothills, known for its luxury homes and stunning desert landscapes, demands high-end fencing that complements its sophisticated environment. Stark Fence Co. delivers elegant and durable fencing solutions perfect for Catalina Foothills' discerning clientele.",
+        "nearbyAreas": [
+          "Tucson",
+          "Oro Valley",
+          "Tanque Verde"
+        ]
+      },
+      {
+        "city": "Sierra Vista",
+        "slug": "sierra-vista-az",
+        "state": "AZ",
+        "content": "Stark Fence Co. extends its professional fencing services to Sierra Vista, Arizona, providing reliable and affordable solutions for homes and businesses alike. We understand the importance of security and privacy and offer a range of fencing options to meet your specific needs. From chain-link fences for commercial properties to decorative fences for residential homes, we have the perfect solution for you.\n\nOur team is dedicated to providing exceptional customer service and quality workmanship. We use only the highest-quality materials and employ proven construction techniques to ensure that your fence is built to last. Trust Stark Fence Co. for all your fencing needs in Sierra Vista.",
+        "localContext": "Sierra Vista, a city with a strong military presence, values secure and reliable fencing solutions. Stark Fence Co. offers durable and practical fencing options to meet the security needs of Sierra Vista residents and businesses.",
+        "nearbyAreas": [
+          "Tucson",
+          "Huachuca City",
+          "Bisbee"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Wood Fencing",
+        "text": "Stark Fence Co. did an amazing job installing our new wood fence. The team was professional, efficient, and the fence looks beautiful. It really adds to the privacy of our backyard. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Chain Link Fencing",
+        "text": "We needed a chain link fence for our dog run, and Stark Fence Co. provided a great solution at a reasonable price. The installation was quick, and the fence is very sturdy. Exactly what we needed.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Laura K.",
+        "rating": 5,
+        "service": "Wrought Iron Fencing",
+        "text": "The wrought iron fence Stark Fence Co. installed is absolutely stunning! It really elevates the look of our property. The craftsmanship is impeccable, and the team was a pleasure to work with. They handled the desert landscaping concerns perfectly.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Gate Installation & Repair",
+        "text": "Our gate was sagging and difficult to open. Stark Fence Co. came out and fixed it quickly and efficiently. The technician was knowledgeable and friendly. Great service!",
+        "date": "2025-01-28"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "Vinyl Fencing",
+        "text": "We chose vinyl fencing for its low maintenance, and Stark Fence Co. delivered. The fence looks great, and we don't have to worry about painting or staining. The installation team was professional and courteous.",
+        "date": "2024-12-12"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Fence Repair",
+        "text": "After a monsoon storm, part of our fence was damaged. Stark Fence Co. came out promptly and repaired it quickly and effectively. We were very impressed with their responsiveness and quality of work.",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Stark Fence Co. | Tucson, AZ",
+        "description": "Tucson's leading fence contractor. Wood, chain link, wrought iron, vinyl fences. Free estimates!"
+      },
+      "about": {
+        "title": "About Stark Fence Co. | Tucson Fence Experts",
+        "description": "Learn about Stark Fence Co.'s commitment to quality fencing in Tucson, AZ. Trusted local fence contractor."
+      },
+      "services": {
+        "title": "Tucson Fence Services | Installation & Repair",
+        "description": "Stark Fence Co. offers fence installation and repair in Tucson, AZ. Wood, chain link, wrought iron, vinyl. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Stark Fence Co. | Tucson, AZ",
+        "description": "Contact Stark Fence Co. for fence installation & repair in Tucson, AZ. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Stark Fence Co. Reviews | Tucson, AZ",
+        "description": "Read reviews for Stark Fence Co. in Tucson, AZ. See what our customers say about our fence installation and repair services."
+      },
+      "service-areas": {
+        "title": "Stark Fence Co. Service Areas | Tucson, AZ",
+        "description": "Stark Fence Co. provides expert fence services throughout Tucson and surrounding areas. Learn more!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fencing": "/images/service-wood-fencing.webp",
+      "chain-link-fencing": "/images/service-chain-link-fencing.webp",
+      "wrought-iron-fencing": "/images/service-wrought-iron-fencing.webp",
+      "vinyl-fencing": "/images/service-vinyl-fencing.webp",
+      "gate-installation": "/images/service-gate-installation.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fencing": {
+        "src": "/images/service-wood-fencing.webp",
+        "srcset": "/images/service-wood-fencing-400w.webp 400w, /images/service-wood-fencing-800w.webp 800w, /images/service-wood-fencing-1200w.webp 1200w, /images/service-wood-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fencing": {
+        "src": "/images/service-chain-link-fencing.webp",
+        "srcset": "/images/service-chain-link-fencing-400w.webp 400w, /images/service-chain-link-fencing-800w.webp 800w, /images/service-chain-link-fencing-1200w.webp 1200w, /images/service-chain-link-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wrought-iron-fencing": {
+        "src": "/images/service-wrought-iron-fencing.webp",
+        "srcset": "/images/service-wrought-iron-fencing-400w.webp 400w, /images/service-wrought-iron-fencing-800w.webp 800w, /images/service-wrought-iron-fencing-1200w.webp 1200w, /images/service-wrought-iron-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fencing": {
+        "src": "/images/service-vinyl-fencing.webp",
+        "srcset": "/images/service-vinyl-fencing-400w.webp 400w, /images/service-vinyl-fencing-800w.webp 800w, /images/service-vinyl-fencing-1200w.webp 1200w, /images/service-vinyl-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation": {
+        "src": "/images/service-gate-installation.webp",
+        "srcset": "/images/service-gate-installation-400w.webp 400w, /images/service-gate-installation-800w.webp 800w, /images/service-gate-installation-1200w.webp 1200w, /images/service-gate-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
